@@ -41,8 +41,7 @@ Awards and Honors:
 
 **Graduate Teaching Assistant**
 
-*University of Pittsburgh (Aug 2020 - Dec 2022)*
-*Pittsburgh, PA*
+*University of Pittsburgh, Pittsburgh, PA (Aug 2020 - Dec 2022)*
 
 | Course       | Semester         |
 |:-------------|:------------------|
@@ -52,15 +51,11 @@ Awards and Honors:
 
 **Business Intelligence Analyst**
 
-*Paymentwall Inc. (July 2019 - Feb 2020)*
-
-*Hanoi, Vietnam*
+*Paymentwall Inc., Hanoi, Vietnam (July 2019 - Feb 2020)*
 
 **Research Intern**
 
-*Savills plc. (July 2017 - Aug 2017)*
-
-*Hanoi, Vietnam*
+*Savills plc., Hanoi, Vietnam (July 2017 - Aug 2017)*
 
 # Projects
 
