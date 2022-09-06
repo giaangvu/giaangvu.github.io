@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-My name is Giang, an MA Statistics student graduating in December 2022 from University of Pittsburgh. I'm actively seeking employment opportunities in data science for 2023.
+My name is Giang (he/him/his), an MA Statistics student graduating in December 2022 from University of Pittsburgh. I'm actively seeking employment opportunities in data science for 2023 around the Pittsburgh area and beyond.
 
 With a B.A. in Economics from Colorado State University, combined with research and industry experiences working with both financial and clinical data, I'm a very versatile data analyst with a strong statistical and mathematical foundation. 
 
@@ -59,17 +59,17 @@ Awards and Honors:
 
 # Projects
 
-**Three supervised consulting projects for the Statistics Consulting Center, University of Pittsburgh** *(Course Projects, supervised by Dr. Kehui Chen, Spring 2022)*.
+Three supervised consulting projects for the Statistics Consulting Center, University of Pittsburgh *(Course Projects, supervised by Dr. Kehui Chen, Spring 2022)*.
 
-**“Linear Dimensionality Reduction Methods for Prediction Purposes: Comparisons and Applications on Continuous and Binary Response Data”, University of Pittsburgh** *(Course Project, supervised by Dr. Joshua Cape, Fall 2021)* [Available on Github](https://github.com/giaangvu/Linear_Dimensionality_Reduction).
+“Linear Dimensionality Reduction Methods for Prediction Purposes: Comparisons and Applications on Continuous and Binary Response Data”, University of Pittsburgh *(Course Project, supervised by Dr. Joshua Cape, Fall 2021)* [Available on Github](https://github.com/giaangvu/Linear_Dimensionality_Reduction).
 
-**A Summary of “Influences of Single Observations on the Choice of the Penalty Parameter in Ridge Regression” by Hellton et al., University of Pittsburgh** *(Course Project, supervised by Dr. Lucas Mentch, Fall 2020)* [Available on Github](https://github.com/giaangvu/Ridge_Penalty_Parameter).
+A Summary of “Influences of Single Observations on the Choice of the Penalty Parameter in Ridge Regression” by Hellton et al., University of Pittsburgh *(Course Project, supervised by Dr. Lucas Mentch, Fall 2020)* [Available on Github](https://github.com/giaangvu/Ridge_Penalty_Parameter).
 
-**“Characterizing Data Quality through a Multi-center Analysis of the Veterinary Committee on Trauma (VetCOT) Trauma Registry” by Troy Cabral, Department of Clinical Sciences, Colorado State University** *(Part-time Research, Dec 2018 - May 2019)*.
+“Characterizing Data Quality through a Multi-center Analysis of the Veterinary Committee on Trauma (VetCOT) Trauma Registry” by Troy Cabral, Department of Clinical Sciences, Colorado State University *(Part-time Research, Dec 2018 - May 2019)*.
 
-**“Cost-Benefit Comparisons of Energy Generation from Offshore Wind Power and Oil in Hawaii”, Colorado State University** *(Senior Seminar, co-author with Linh P. An, supervised by Dr. Terry Iverson, Fall 2018)*.
+“Cost-Benefit Comparisons of Energy Generation from Offshore Wind Power and Oil in Hawaii”, Colorado State University *(Senior Seminar, co-author with Linh P. An, supervised by Dr. Terry Iverson, Fall 2018)*.
 
-**“Privatization of State-owned Enterprises in Vietnam - Challenges and Suggestions.”, Foreign Trade University, Hanoi, Vietnam** *(Scientific Research Competition, co-author with Quynh Ngoc Phung, supervised by Dr. Minh Binh Nguyen & Phuong Thanh Tran)*.
+“Privatization of State-owned Enterprises in Vietnam - Challenges and Suggestions.”, Foreign Trade University, Hanoi, Vietnam *(Scientific Research Competition, co-author with Quynh Ngoc Phung, supervised by Dr. Minh Binh Nguyen & Phuong Thanh Tran)*.
 
 # Resume
 
