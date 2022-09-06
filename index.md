@@ -16,17 +16,21 @@ I'm open to all data analyst positions, with a special interest in the healthcar
 
 # Education
 
-## Master of Arts in Statstics 
-### University of Pittsburgh (Aug 2020 - Dec 2022)
+**Master of Arts in Statistics** 
 
-**GPA**: 3.806/4.00
+*University of Pittsburgh, Pittsburgh, PA (Aug 2020 - Dec 2022)*
 
-## Bachelor of Arts in Economics, Minor in Business Administratrion
-### Foreign Trade University & Colorado State University (Aug 2015 - July 2019)
+GPA: 3.806/4.00
 
-**GPA**: 3.96/4.00
+**Bachelor of Arts in Economics, Minor in Business Administratrion**
 
-**Awards and Honors**:
+*Foreign Trade University, Hanoi, Vietnam (Aug 2015 - May 2018)*
+
+*Colorado State University, Fort Collins, CO (Aug 2018 - May 2019)*
+
+GPA: 3.96/4.00
+
+Awards and Honors:
 
 * Graduation with Honors, Magna Cum Laude from Colorado State University - May 2019.
 * Dean's List for Outstanding Academic Achievement at Colorado State University - Fall 2018 and Spring 2019.
@@ -35,8 +39,9 @@ I'm open to all data analyst positions, with a special interest in the healthcar
 
 # Experience
 
-## Graduate Teaching Assistant
-### University of Pittsburgh (Aug 2020 - Dec 2022)
+**Graduate Teaching Assistant**
+
+*University of Pittsburgh (Aug 2020 - Dec 2022)*
 *Pittsburgh, PA*
 
 | Course       | Semester         |
@@ -45,15 +50,32 @@ I'm open to all data analyst positions, with a special interest in the healthcar
 | STAT 1000: Applied Statistical Methods           | Fall 2020, Summer 2021, Fall 2021, Summer 2022 |
 | STAT 200: Basic Applied Statistics | Spring 2022   |
 
-## Business Intelligence Analyst
-### Paymentwall Inc. (July 2019 - Feb 2020)
+**Business Intelligence Analyst**
+
+*Paymentwall Inc. (July 2019 - Feb 2020)*
+
 *Hanoi, Vietnam*
 
-## Research Intern
-### Savills plc. (July 2017 - Aug 2017)
+**Research Intern**
+
+*Savills plc. (July 2017 - Aug 2017)*
+
 *Hanoi, Vietnam*
 
 # Projects
+
+**Three supervised consulting projects for the Statistics Consulting Center, University of Pittsburgh** *(Course Projects, supervised by Dr. Kehui Chen, Spring 2022)*.
+
+**“Linear Dimensionality Reduction Methods for Prediction Purposes: Comparisons and Applications on Continuous and Binary Response Data”, University of Pittsburgh** *(Course Project, supervised by Dr. Joshua Cape, Fall 2021)* [Availble on Github](./another-page.html).
+
+**A Summary of “Influences of Single Observations on the Choice of the Penalty Parameter in Ridge Regression” by Hellton et al., University of Pittsburgh** *(Course Project, supervised by Dr. Lucas Mentch, Fall 2020)* [Availble on Github](./another-page.html).
+
+**“Characterizing Data Quality through a Multi-center Analysis of the Veterinary Committee on Trauma (VetCOT) Trauma Registry” by Troy Cabral, Department of Clinical Sciences, Colorado State University** *(Part-time Research, Dec 2018 - May 2019)*.
+
+**“Cost-Benefit Comparisons of Energy Generation from Offshore Wind Power and Oil in Hawaii”, Colorado State University** *(Senior Seminar, co-author with Linh P. An, supervised by Dr. Terry Iverson, Fall 2018)*.
+
+**“Privatization of State-owned Enterprises in Vietnam - Challenges and Suggestions.”, Foreign Trade University, Hanoi, Vietnam** *(Scientific Research Competition, co-author with Quynh Ngoc Phung, supervised by Dr. Minh Binh Nguyen & Phuong Thanh Tran)*.
+
 
 
 
