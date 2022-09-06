@@ -14,6 +14,8 @@ I'm open to all data analyst positions, with a special interest in the healthcar
 
 **Hobbies**: Yoga, Pottery, Knitting, Cooking, Hiking
 
+**Contact**: [Email](vutatruonggiang@gmail.com)
+
 # Education
 
 **Master of Arts in Statistics** 
