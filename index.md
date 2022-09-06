@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About Me
+## About Me
 
 My name is Giang (he/him/his), an M.A. Statistics student graduating in December 2022 from University of Pittsburgh. I'm actively seeking employment opportunities in data science for 2023 around the Pittsburgh area and beyond.
 
@@ -16,7 +16,7 @@ I'm open to all data analyst positions, with a special interest in the healthcar
 
 **Contact**: [Email](vutatruonggiang@gmail.com)
 
-# Education
+## Education
 
 **Master of Arts in Statistics** 
 
@@ -39,7 +39,7 @@ Awards and Honors:
 * Graduation with Honors, Top of Class from Foreign Trade University - July 2019.
 * Awards for Excellent Academic Record for six consecutive semesters at Foreign Trade University - 2015 to 2018.
 
-# Experience
+## Experience
 
 **Graduate Teaching Assistant**
 
@@ -59,7 +59,7 @@ Awards and Honors:
 
 *Savills plc., Hanoi, Vietnam (July 2017 - Aug 2017)*
 
-# Projects
+## Projects
 
 Three supervised consulting projects for the Statistics Consulting Center, University of Pittsburgh *(Course Projects, supervised by Dr. Kehui Chen, Spring 2022)*.
 
@@ -73,10 +73,10 @@ A Summary of “Influences of Single Observations on the Choice of the Penalty P
 
 “Privatization of State-owned Enterprises in Vietnam - Challenges and Suggestions.”, Foreign Trade University, Hanoi, Vietnam *(Scientific Research Competition, co-author with Quynh Ngoc Phung, supervised by Dr. Minh Binh Nguyen & Phuong Thanh Tran)*.
 
-# Volunteer Experience
+## Volunteer Experience
 
 Hanoi DocLab, Hanoi, Vietnam (Aug 2016 - July 2018).
 
-# Resume
+## Resume
 
 [My resume](https://drive.google.com/file/d/1Cao4dnipFmyrtKnzW4bl7PrjOtw-dIPP/view?usp=sharing) (last updated September 2022)
