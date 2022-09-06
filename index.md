@@ -4,9 +4,9 @@ layout: default
 
 # About Me
 
-My name is Giang (he/him/his), an MA Statistics student graduating in December 2022 from University of Pittsburgh. I'm actively seeking employment opportunities in data science for 2023 around the Pittsburgh area and beyond.
+My name is Giang (he/him/his), an M.A. Statistics student graduating in December 2022 from University of Pittsburgh. I'm actively seeking employment opportunities in data science for 2023 around the Pittsburgh area and beyond.
 
-With a B.A. in Economics from Colorado State University, combined with research and industry experiences working with both financial and clinical data, I'm a very versatile data analyst with a strong statistical and mathematical foundation. 
+After obtaining an B.A. in Economics from Colorado State University and Foreign Trade University, I became a data analyst working in the finance/banking sector in Hanoi, and decided to go to graduate school to improve my statistical and mathematical foundation. With research and industry experiences working with both financial and clinical data, I believe I'm a very versatile data analyst. 
 
 I have three year of experience with R, 8-month industry experience with MySQL, and familiarity with Python, Minitab, SAS, STATA, and Matlab. 
 
@@ -61,9 +61,9 @@ Awards and Honors:
 
 Three supervised consulting projects for the Statistics Consulting Center, University of Pittsburgh *(Course Projects, supervised by Dr. Kehui Chen, Spring 2022)*.
 
-“Linear Dimensionality Reduction Methods for Prediction Purposes: Comparisons and Applications on Continuous and Binary Response Data”, University of Pittsburgh *(Course Project, supervised by Dr. Joshua Cape, Fall 2021)* [Available on Github](https://github.com/giaangvu/Linear_Dimensionality_Reduction).
+“Linear Dimensionality Reduction Methods for Prediction Purposes: Comparisons and Applications on Continuous and Binary Response Data”, University of Pittsburgh *(Course Project, supervised by Dr. Joshua Cape, Fall 2021)* - [Available on GitHub](https://github.com/giaangvu/Linear_Dimensionality_Reduction).
 
-A Summary of “Influences of Single Observations on the Choice of the Penalty Parameter in Ridge Regression” by Hellton et al., University of Pittsburgh *(Course Project, supervised by Dr. Lucas Mentch, Fall 2020)* [Available on Github](https://github.com/giaangvu/Ridge_Penalty_Parameter).
+A Summary of “Influences of Single Observations on the Choice of the Penalty Parameter in Ridge Regression” by Hellton et al., University of Pittsburgh *(Course Project, supervised by Dr. Lucas Mentch, Fall 2020)* - [Available on GitHub](https://github.com/giaangvu/Ridge_Penalty_Parameter).
 
 “Characterizing Data Quality through a Multi-center Analysis of the Veterinary Committee on Trauma (VetCOT) Trauma Registry” by Troy Cabral, Department of Clinical Sciences, Colorado State University *(Part-time Research, Dec 2018 - May 2019)*.
 
