@@ -73,6 +73,10 @@ A Summary of “Influences of Single Observations on the Choice of the Penalty P
 
 “Privatization of State-owned Enterprises in Vietnam - Challenges and Suggestions.”, Foreign Trade University, Hanoi, Vietnam *(Scientific Research Competition, co-author with Quynh Ngoc Phung, supervised by Dr. Minh Binh Nguyen & Phuong Thanh Tran)*.
 
+# Volunteer Experience
+
+Hanoi DocLab, Hanoi, Vietnam (Aug 2016 - July 2018).
+
 # Resume
 
 [My resume](https://drive.google.com/file/d/1Cao4dnipFmyrtKnzW4bl7PrjOtw-dIPP/view?usp=sharing) (last updated September 2022)
