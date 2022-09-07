@@ -6,7 +6,7 @@ layout: default
 
 My name is Giang (he/him/his), an M.A. Statistics student graduating in December 2022 from University of Pittsburgh. I'm actively seeking employment opportunities in data science for 2023 around the Pittsburgh area and beyond.
 
-After obtaining an B.A. in Economics from Colorado State University and Foreign Trade University, I became a data analyst working in the finance/banking sector in Hanoi, and decided to go to graduate school to improve my statistical and mathematical foundation. With research and industry experiences working with both financial and clinical data, I believe I'm a very versatile data analyst. 
+After obtaining an B.A. in Economics from Colorado State University and Foreign Trade University, I became a data analyst working in the online payments industry in Hanoi, and decided to go to graduate school to improve my statistical and mathematical foundation. With research and industry experiences working with both financial and clinical data, I believe I'm a very versatile data analyst. 
 
 I have three year of experience with R, 8-month industry experience with MySQL, and familiarity with Python, Minitab, SAS, STATA, and Matlab. 
 
