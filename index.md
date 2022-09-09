@@ -53,7 +53,7 @@ Awards and Honors:
 
 **Business Intelligence Analyst**
 
-*Paymentwall Inc., Hanoi, Vietnam (July 2019 - Feb 2020)*
+*Outcubator Vietnam, formerly known as Paymentwall Inc., Hanoi, Vietnam (July 2019 - Feb 2020)*
 
 **Research Intern**
 
