@@ -8,9 +8,9 @@ My name is Giang (he/him/his), an M.A. Statistics student graduating in December
 
 After obtaining an B.A. in Economics from Colorado State University and Foreign Trade University, I became a data analyst working in the online payments industry in Hanoi, and decided to go to graduate school to improve my statistical and mathematical foundation. With research and industry experiences working with both financial and clinical data, I believe I'm a very versatile data analyst. 
 
-I have three year of experience with R, 8-month industry experience with MySQL, and familiarity with Python, Minitab, SAS, STATA, and Matlab. 
+I have 3 years of experience using R, which includes 1 year in the industry and 2 years in graduate school, 8-month industry experience with MySQL, and familiarity with Python, Minitab, SAS, STATA, and Matlab. I am also capable of picking up new skills very quickly.
 
-I'm open to all data analyst positions, with a special interest in the healthcare industry.
+I'm open to data analyst positions across all industries, including but not limited to healthcare, payments, finance, etc.
 
 **Hobbies**: Yoga, Pottery, Knitting, Cooking, Hiking
 
