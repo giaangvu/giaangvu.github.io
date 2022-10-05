@@ -53,11 +53,15 @@ Awards and Honors:
 
 **Business Intelligence Analyst**
 
-*Outcubator Vietnam, formerly known as Paymentwall Inc., Hanoi, Vietnam (July 2019 - Feb 2020)*
+*Outcubator, formerly Paymentwall, Hanoi, Vietnam (July 2019 - Feb 2020)*
+
+**Data Analyst**
+
+*Colorado State University, Department of Clinical Sciences, Fort Collins, CO (Dec 2018 - May 2019)*
 
 **Research Intern**
 
-*Savills plc., Hanoi, Vietnam (July 2017 - Aug 2017)*
+*Savills, Hanoi, Vietnam (July 2017 - Aug 2017)*
 
 ## Projects
 
@@ -66,8 +70,6 @@ Three supervised consulting projects for the Statistics Consulting Center, Unive
 “Linear Dimensionality Reduction Methods for Prediction Purposes: Comparisons and Applications on Continuous and Binary Response Data”, University of Pittsburgh *(Course Project, supervised by Dr. Joshua Cape, Fall 2021)* - [Available on GitHub](https://github.com/giaangvu/Linear_Dimensionality_Reduction).
 
 A Summary of “Influences of Single Observations on the Choice of the Penalty Parameter in Ridge Regression” by Hellton et al., University of Pittsburgh *(Course Project, supervised by Dr. Lucas Mentch, Fall 2020)* - [Available on GitHub](https://github.com/giaangvu/Ridge_Penalty_Parameter).
-
-“Characterizing Data Quality through a Multi-center Analysis of the Veterinary Committee on Trauma (VetCOT) Trauma Registry” by Troy Cabral, Department of Clinical Sciences, Colorado State University *(Part-time Research, Dec 2018 - May 2019)*.
 
 “Cost-Benefit Comparisons of Energy Generation from Offshore Wind Power and Oil in Hawaii”, Colorado State University *(Senior Seminar, co-author with Linh P. An, supervised by Dr. Terry Iverson, Fall 2018)*.
 
@@ -79,4 +81,4 @@ Hanoi DocLab, Hanoi, Vietnam (Aug 2016 - July 2018).
 
 ## Resume
 
-[My resume](https://drive.google.com/file/d/1Cao4dnipFmyrtKnzW4bl7PrjOtw-dIPP/view?usp=sharing) (last updated September 2022)
+[My resume](https://drive.google.com/file/d/18T6lq2-0cK9mNyJ2B6WT9X5KWFpJMOTW/view?usp=sharing) (last updated October 2022)
