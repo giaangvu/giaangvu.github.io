@@ -8,7 +8,7 @@ My name is Giang (he/him/his), an M.A. Statistics student graduating in December
 
 After obtaining an B.A. in Economics from Colorado State University and Foreign Trade University, I became a data analyst working in the online payments industry in Hanoi, and decided to go to graduate school to improve my statistical and mathematical foundation. With research and industry experiences working with both financial and clinical data, I believe I'm a very versatile data analyst. 
 
-I have 3 years of experience using R, which includes 1 year in the industry and 2 years in graduate school, 8-month industry experience with MySQL, and familiarity with Python, Minitab, SAS, STATA, and Matlab. I am also capable of picking up new skills very quickly.
+I have 3 years of data analytics experience using R, which include 1 year in the industry and 2 years in graduate school, an 8-month industry experience with MySQL, and familiarity with Python, Minitab, SAS, STATA, and Matlab. I am also capable of picking up new skills very quickly.
 
 I'm open to data analyst positions across all industries, including but not limited to healthcare, payments, finance, etc.
 
@@ -23,6 +23,8 @@ I'm open to data analyst positions across all industries, including but not limi
 *University of Pittsburgh, Pittsburgh, PA (Aug 2020 - Dec 2022)*
 
 GPA: 3.806/4.00
+
+Activities: Graduate Teaching Assistant - taught students statistical concepts via application in Minitab and Excel 
 
 **Bachelor of Arts in Economics, Minor in Business Administratrion**
 
@@ -40,16 +42,6 @@ Awards and Honors:
 * Awards for Excellent Academic Record for six consecutive semesters at Foreign Trade University - 2015 to 2018.
 
 ## Experience
-
-**Graduate Teaching Assistant**
-
-*University of Pittsburgh, Pittsburgh, PA (Aug 2020 - Dec 2022)*
-
-| Course       | Semester         |
-|:-------------|:------------------|
-| STAT 1100: Statistics and Probability for Business Management           | Spring 2022, Fall 2022 |
-| STAT 1000: Applied Statistical Methods           | Fall 2020, Summer 2021, Fall 2021, Summer 2022 |
-| STAT 200: Basic Applied Statistics | Spring 2022   |
 
 **Business Intelligence Analyst**
 
