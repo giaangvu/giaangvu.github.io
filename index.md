@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-My name is Giang (he/him/his), an M.A. Statistics student graduating in December 2022 from University of Pittsburgh. I'm actively seeking employment opportunities in data science for 2023 around the Pittsburgh area and beyond.
+My name is Giang (he/him/his), an M.A. Statistics student graduating in April 2023 from University of Pittsburgh. I'm actively seeking employment opportunities in data science for 2023 around the Pittsburgh area and beyond.
 
 After obtaining an B.A. in Economics from Colorado State University and Foreign Trade University, I became a data analyst working in the online payments industry in Hanoi, and decided to go to graduate school to improve my statistical and mathematical foundation. With research and industry experiences working with both financial and clinical data, I believe I'm a very versatile data analyst. 
 
@@ -20,7 +20,7 @@ I'm open to data analyst positions across all industries, including but not limi
 
 **Master of Arts in Statistics** 
 
-*University of Pittsburgh, Pittsburgh, PA (Aug 2020 - Dec 2022)*
+*University of Pittsburgh, Pittsburgh, PA (Aug 2020 - Apr 2023)*
 
 GPA: 3.806/4.00
 
@@ -73,4 +73,4 @@ Hanoi DocLab, Hanoi, Vietnam (Aug 2016 - July 2018).
 
 ## Resume
 
-[My resume](https://drive.google.com/file/d/1-oU5aAQ88II8_Ngtx6YXcO9Waadmv8fq/view?usp=sharing) (last updated November 2022)
+[My resume](https://drive.google.com/file/d/1-oU5aAQ88II8_Ngtx6YXcO9Waadmv8fq/view?usp=sharing) (last updated December 2022)
