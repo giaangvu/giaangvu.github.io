@@ -73,4 +73,4 @@ Hanoi DocLab, Hanoi, Vietnam (Aug 2016 - July 2018).
 
 ## Resume
 
-[My resume](https://drive.google.com/file/d/1-oU5aAQ88II8_Ngtx6YXcO9Waadmv8fq/view?usp=sharing) (last updated December 2022)
+[My resume](https://drive.google.com/file/d/1tyIN7WPsG79etBDEsF5o9SyZ_vrecWqN/view?usp=sharing) (last updated December 2022)
